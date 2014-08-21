@@ -48,7 +48,8 @@ body{
 .jumbotron {
 	background-image: url('https://dl.dropboxusercontent.com/s/rpuiiqxak6ndtt6/jumbotron.jpg');
 	background-repeat: no-repeat;
-	position: right;
+	/*position: right;*/
+	background-position: right;
 	/*background-size: 1200px 400px;*/
 	h1, h2 {
 		/*font-family: guardian-egyptt, georgia, serif;*/
