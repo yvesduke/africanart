@@ -21,8 +21,8 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.2.0'
-#gem "paperclip", "~> 3.5.3"
-gem "paperclip", "~> 4.1"
+gem "paperclip", "~> 3.5.3"
+#gem "paperclip", "~> 4.1"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
 gem 'devise'
